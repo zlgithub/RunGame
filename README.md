@@ -7,3 +7,6 @@ W:跳
 S:滑行
 
 ![image](https://github.com/zlgithub/RunGame/blob/master/RunImg.png)  
+
+碰觸硬幣 *C* 獲得分數，  
+並躲避障礙物避免死亡。  
